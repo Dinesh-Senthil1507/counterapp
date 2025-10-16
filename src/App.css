@@ -1,0 +1,45 @@
+.card {
+  margin-top: -150px;
+  margin-left: 450px;
+  margin-right: 500px;
+  background-color:beige;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.button1{
+border-width: 3px;
+color: black;
+font-size: 30px;
+background-color: green;
+border-radius: 10px;
+margin: 20px;
+ font-style: italic;
+}
+.button2{
+border-width: 3px;
+color:blanchedalmond;
+font-size: 30px;
+background-color: black;
+border-radius: 30px ;
+border-style:solid;
+ font-style: italic;
+}
+.button3{
+border-width: 3px;
+color: black;
+font-size: 30px;
+background-color: red;
+border-radius: 10px;
+margin: 20px;
+ font-style: italic;
+}
+.app{
+  color: beige;
+  font-size: 40px;
+  font-family: sans-serif;
+  padding: 200px;
+  padding-left: 600px;
+  font-style: italic;
+}
+
